@@ -19,11 +19,16 @@
   + Double click the ova file which is downloaded, it will open a new tab inside the virtual box app. Later click on the "import" button.(It will take a few minutes to complete the import process) Then you can see the ubuntu icon on the top left corner of your virtual box.
   + You can click start button to run your ubuntu now.
 
-  ## Why Linux
+  ## Why Linux ???
   + Free & Open Source – GPL license.
   + Reliability.
   + Secure – Monolithic kernel.
   + Scalability.
 
-  
+## Linux components
++ Hardware Controllers: This subsystem is comprised of all the possible physical devices in a Linux installation - CPU, memory hardware, hard disks.
++ Linux Kernel: The kernel abstracts and mediates access to the hardware resources, including the CPU. A kernel is the core of the operating system.
++ O/S Services: These are services that are typically considered part of the operating system (e.g. windowing system, command shell)
++ User Applications: The set of applications in use on a particular Linux system (e.g. web browser)
+
 
