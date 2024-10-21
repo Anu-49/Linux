@@ -25,10 +25,18 @@
   + Secure – Monolithic kernel.
   + Scalability.
 
+## Key Properties of Linux
++ Multitasking – Ability to handle multiple tasks across single or multiple processors.
++ Multiuser – Have got users with different level of privileges for secured access.
++ Protected Memory – Clear distinction called 'user-space' and 'kernel-space' thereby having protected memory access. This makes Linux Super secure comparing with other operating systems.
++ Hierarchical File System – Well organized file system that handles various types of files. This also makes handling various inputs very simple.
+
 ## Linux components
-+ Hardware Controllers: This subsystem is comprised of all the possible physical devices in a Linux installation - CPU, memory hardware, hard disks.
-+ Linux Kernel: The kernel abstracts and mediates access to the hardware resources, including the CPU. A kernel is the core of the operating system.
-+ O/S Services: These are services that are typically considered part of the operating system (e.g. windowing system, command shell)
-+ User Applications: The set of applications in use on a particular Linux system (e.g. web browser)
++ Hardware Controllers - Comprises all the possible physical devices in a Linux installation i.e, CPU, memory hardware, hard disks.
++ Linux Kernel - The kernel abstracts and mediates access to the hardware resources, including the CPU. A kernel is the core of the operating system.
++ O/S Services - Services that are typically considered part of the operating system. (example: windowing system, command shell)
++ User Applications - The set of applications in use on a particular Linux system. (example: web browser)
+
+
 
 
