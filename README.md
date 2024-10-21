@@ -1,5 +1,6 @@
 # Linux
-Linux is a free, open source, reliable, flexible, secure operating system.
++ Linux is a free, open source, reliable, flexible, secure operating system.
++ Created by Linus Torvalds.
 ## Methods to install Linux
 - WSL (Windows Subsystem for Linux): </br>
   + Go to SETTINGS.
@@ -17,3 +18,12 @@ Linux is a free, open source, reliable, flexible, secure operating system.
   + We need ubuntu ova file to work inside virtualbox. So download ova file.
   + Double click the ova file which is downloaded, it will open a new tab inside the virtual box app. Later click on the "import" button.(It will take a few minutes to complete the import process) Then you can see the ubuntu icon on the top left corner of your virtual box.
   + You can click start button to run your ubuntu now.
+
+  ## Why Linux
+  + Free & Open Source – GPL license.
+  + Reliability.
+  + Secure – Monolithic kernel.
+  + Scalability.
+
+  
+
